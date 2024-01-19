@@ -1,1 +1,3 @@
-ECHO is on.
+#Readme
+Hello!
+ NEW STUF HERE
