@@ -1,5 +1,1 @@
-#Readme
-Hello!
- NEW STUF HERE 
- ADDED FROM NEWBRANCH2
- 
+ECHO is on.
